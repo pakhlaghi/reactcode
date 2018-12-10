@@ -1,0 +1,15 @@
+{
+    "name": "code-core-express",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Peyman Akhlaghi",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.3"
+    }
+}
